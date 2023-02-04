@@ -1,0 +1,94 @@
+﻿*
+{
+
+	font-family:Urdu Typesetting;
+
+}
+/* 
+
+
+
+Add background photo to sections */
+.photo-bg {
+ background-image: url(https://i.pinimg.com/originals/5d/3e/28/5d3e2821b6edd2e83339c3cb3b6d9965.gif);
+    background-size: cover;
+}
+#section2 {
+    background-image: url('section2-photo.jpg');
+}
+
+/* Style the header and navbar */
+header {
+    background-color: black;
+    color: #fff;
+    padding: 20px;
+}
+nav a {
+
+    	color: white;
+	text-decoration: none;
+	
+    float:right;
+    	margin: 10px 30px;
+	font-size:20px;
+    
+   
+}
+nav a:hover {
+    color: #ccc;
+}
+
+/* Style the aside element */
+aside {
+    background-color: #eee;
+    padding: 20px;
+    width: 25%; /* adjust the width as desired */
+    float: right; /* or left, depending on layout */
+}
+
+body{
+
+background-color:black;
+}
+
+h1{
+    color:white;
+    font-size: 60px;
+margin-top: 0%;
+text-align: center;
+}
+
+button{
+	background:white;
+   
+	border: 0;
+	outline: none;
+	padding:15px 35px;
+	color: black;
+	margin-top:0px;
+    text-align: center; 
+	font-weight:500;
+	letter-spacing:1px ;
+	cursor:pointer;
+
+    
+
+}
+.logo
+{
+   width:160px;
+   align-left:100%%;
+
+
+}
+
+.gif{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.text-center {
+  text-align: center;
+}

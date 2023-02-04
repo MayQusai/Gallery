@@ -1,0 +1,81 @@
+
+*{
+padding: 0;
+margin:0;
+font-family:Urdu Typesetting;
+box-sizing: boroder-box;
+
+}
+body {
+ background-color: #191919;
+}
+.about {
+  
+width:100%;
+  padding:78px 0px;
+  background-color: #e3e2e1
+; 
+ } 
+.about img {
+           height: auto;
+           width: 420px; 
+ } 
+.about-text { 
+       width: 550px; 
+       
+ }
+.main{
+      width: 1130px; 
+      max-width: 95%;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;  
+      justify-content: space-around;
+      
+}
+ h1{
+
+             color:black;
+             font-size: 80px;
+             text-transform: capitalize;
+             margin-bottom: 20px;
+             
+}
+ h5{
+
+              color: black;
+              font-size: 25px;
+              text-transform: capitalize;
+              margin-bottom: 25px;
+              letter-spacing: 2px;
+}
+span{
+
+ color:#949494;
+
+}
+
+ p{
+              color: black;
+              letter-spacing: 28px;
+              font-size: 18px;
+              margin-bottom: 45px;
+}
+
+table, th, td {
+  border: 1px solid;
+  color: ;black;
+  font-family:Urdu Typesetting;
+ 
+}
+
+.pic{
+    padding:10%;
+}
+.logo
+{
+   width:160px;
+   align-left:100%%;
+
+
+}
